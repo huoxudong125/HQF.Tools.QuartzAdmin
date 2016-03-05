@@ -1,0 +1,1 @@
+[How can I do an Entity Framework Migration with Visual Studio 2015 nuget prompt?](https://stackoverflow.com/questions/30851344/how-can-i-do-an-entity-framework-migration-with-visual-studio-2015-nuget-prompt)

@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{86F7B076-D0FC-4C27-8BF3-617B5096D648}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HQF.Tools.QuartzAdmin", "src\HQF.Tools.QuartzAdmin\HQF.Tools.QuartzAdmin.xproj", "{8702BC68-A224-480F-81AA-A4277425FB31}"
